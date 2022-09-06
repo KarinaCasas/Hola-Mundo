@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: aqua;
+    margin: 3rem;
+    padding: 3rem;
+    border: solid 2px;
+}
